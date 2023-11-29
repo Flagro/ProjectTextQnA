@@ -1,0 +1,6 @@
+Title: Project Solar Exploration - Mission Overview
+
+The Solar Exploration project, initiated in 2020, aims to study the sun's influence on the solar system. 
+Key objectives include analyzing solar flares and their impact on satellite communications. 
+The project's first phase involved launching the Helios satellite, which successfully entered the sun's orbit in 2021. 
+Unique to this project is the use of a heat-resistant coating on the satellite, capable of withstanding temperatures up to 2000 degrees Celsius.
